@@ -118,6 +118,7 @@ body {
   }
   
   #members {
+      margin-left: 20%;
     margin: 30px;
     text-align: center;
     color: red;
